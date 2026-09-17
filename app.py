@@ -26,9 +26,9 @@ if hist_button:
 
 # Botão para Gráfico de Dispersão
 
-hist_button = st.button('Criar gráfico de dispersão')
+disp_button = st.button('Criar gráfico de dispersão')
         
-if hist_button:
+if disp_button:
             
             st.write('Criando um gráfico de dispersão para o conjunto de dados de anúncios de vendas de carros')
                 
